@@ -53,7 +53,7 @@ These tables were cleaned and combined to create meaningful insights.
 * Order value remains relatively stable, indicating **consistent customer spending behavior**.
 
 
-## 🛠 Tools Used
+## Tools Used
 
 * Microsoft Excel
 * Pivot Tables
